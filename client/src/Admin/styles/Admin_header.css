@@ -28,11 +28,11 @@
 
 @media (max-width: 576px) {
     .admin-header nav ul li{
-        margin: 0 5px;
+        margin: 0 4px;
         
     }
     .admin-header nav ul li a{
-        font-size: 13px;
+        font-size: 12px;
     }
     
 }

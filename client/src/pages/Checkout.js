@@ -116,7 +116,7 @@ function Checkout() {
                     if (responseData.success) {
                         // Payment verification was successful
                         // Redirect to the success page
-                        window.location.href = `/paymentsuccess?reference=${razorpay_payment_id}`;
+                        window.location.href = `https://bookstore-xpjv.onrender.com/paymentsuccess?reference=${razorpay_payment_id}`;
                     } else {
                         // Handle a failed payment verification
                         console.error("Payment Failed...!");
