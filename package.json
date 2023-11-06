@@ -4,10 +4,8 @@
   "description": "\"This is the backend to manage the bookstore.\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ./index.js",
     "dev": "node ./index.js",
-    "build": "node ./index.js"
   },
   "author": "Keshav Singh Yadav",
   "license": "ISC",
