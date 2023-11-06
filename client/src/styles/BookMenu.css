@@ -168,6 +168,9 @@
 
 @media (max-width: 576px) {
     /* Styles for small devices */
+    .book-details {
+        margin-left:10px;
+    }
     .book-menu {
         padding: 10px;
     }
@@ -178,7 +181,7 @@
     }
 
     .book-card {
-        width: 100%;
+        width: 95%;
         border-top-left-radius: 70px;
         border-bottom-right-radius: 70px;
        
@@ -186,6 +189,8 @@
 
     .book-card img {
         border-radius: 10px;
+        width: 130px;
+        height: 195px;
         /* width: 280px; */
     }
   }

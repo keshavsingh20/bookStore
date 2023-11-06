@@ -45,7 +45,7 @@ function Administration() {
 
                     <Link to='/admin/add/store' className='btn btn-success adm-btn'>Add New Store</Link>
                     <div className='table-container'>
-                        <table className="table tbl-full table-striped" style={{width: '90%'}}>
+                        <table className="table tbl-full table-striped">
                             <thead>
                                 <tr className="tbl-heading">
                                     <th>S.N.</th>

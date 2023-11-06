@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import '../styles/Categories.scss'
 import Header from "../components/Header";
 import Footer from "../components/Footer";
 import ExploreBooks from "../components/ExploreBooks";

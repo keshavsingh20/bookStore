@@ -9,6 +9,7 @@ const Search = ({handleSearch, setSearchKey})=> {
     const value = event.target.value;
     setInputValue(value);
     setSearchKey(value); 
+    handleSearch(inputValue)
   };
 
   const handleSubmit = () => {
