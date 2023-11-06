@@ -1,0 +1,25 @@
+.admin-footer {
+    background-color: #EA2027;
+    color: white;
+    padding: 5px;
+    padding-top : 10px;
+    width: 100%;
+}
+.wrapper {
+    padding: 1%;
+
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.admin-footer a {
+    color: #f6e58d;
+    text-decoration: none;
+}
+
+.admin-footer a:hover {
+    color: yellow;
+}

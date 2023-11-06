@@ -1,0 +1,45 @@
+/* Style for the form container */
+.add-category {
+    display: flex; /* Use flexbox to align items */
+    flex-direction: column; /* Stack form elements vertically */
+    width: 350px; /* Adjust the width as needed */
+    text-align: start;
+    margin-left: 20px;
+  }
+  
+  /* Style for form input fields and labels */
+  .add-category div {
+    margin-bottom: 15px; /* Add spacing between form elements */
+    display: flex;
+  }
+  
+  .add-category div label {
+    display: block; /* Display labels on a new line */
+    font-weight: bold; /* Make labels bold */
+    margin-right: 20px;
+  }
+  
+  .add-category div input[type="text"],
+  .add-category div input[type="file"], 
+  .add-category div select {
+    width: 100%; /* Make input fields span the full width of the form */
+    padding: 5px; /* Add some padding for readability */
+  }
+  
+  /* Style for the submit button */
+  .add-category button {
+    background-color: #007bff; /* Change this to your desired button color */
+    color: #fff; /* Text color */
+    padding: 10px 10px; /* Add padding to the button */
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    width: 180px;
+    border-radius: 20px;
+  }
+
+
+  
+  
+  
+  
+  

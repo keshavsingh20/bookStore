@@ -1,0 +1,18 @@
+.table-container {
+    width: 100%;
+    overflow-x: scroll;
+    
+}
+.tbl-full {
+    width: 95%;
+    margin: 0 auto;
+    margin-top: 20px;
+    /* overflow-x: hidden; */
+    /* overflow-x: scroll; */
+    /* white-space: nowrap; */
+}
+
+.adm-btn {
+    border-radius: 20px;
+    margin: 5px;
+}

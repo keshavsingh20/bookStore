@@ -1,0 +1,44 @@
+/* .select option[value ="pending"]{
+    background-color: yellow;
+    color: red;
+}
+
+.pending {
+    background-color: yellow;
+    color: red;
+} */
+
+.status {
+    padding: 2px;
+    background: black
+}
+
+.Pending {
+    background-color:#F5F5F5;
+    color: #3d3dbe;
+}
+
+.Accepted {
+    background-color: #DFF0D8;
+    color: #00FF00;
+}
+
+.Processing {
+    background-color: #D9EDF7;
+    color: #33CCFF;
+}
+
+.Shipped {
+    background-color: #AEEEEE;
+    color: #3399FF;
+}
+
+.Delivered {
+    background-color: #98FB98;
+    color: #008000;
+}
+
+.Cancelled {
+    background-color: #FFD6D6;
+    color: #FF0000;
+}
